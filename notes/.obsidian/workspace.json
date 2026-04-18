@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "c144f7808023bea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "477679909834e2f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "832e68d3e2e39df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily routine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily routine"
+            }
+          },
+          {
+            "id": "37cb87741a24fa1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily routine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily routine"
+            }
+          },
+          {
+            "id": "204b507e67e0d2b5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250826214930.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250826214930"
+            }
+          },
+          {
+            "id": "c570017138acacd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/Terminology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terminology"
+            }
+          },
+          {
+            "id": "3dbc20661d8352de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Healthy and cheap/Maisto planas savaitei.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maisto planas savaitei"
+            }
+          },
+          {
+            "id": "81b0725ec84a4e6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dezomeda/Prestashop upgrade 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prestashop upgrade 9"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ec862099bf3e24e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbe8157c3174c3b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a0cb7071d30b8cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab8823a53c8c914b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "65f1a85c289438cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc40686554eb2964",
+    "type": "split",
+    "children": [
+      {
+        "id": "91d6f5d141e6c6b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fba10fd236e309ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fucking bite/UŽPISO GAIDŽIAI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for UŽPISO GAIDŽIAI"
+            }
+          },
+          {
+            "id": "2f602cec2832b331",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily routine.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Daily routine"
+            }
+          },
+          {
+            "id": "b7bd9233bec63f2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "65897de72771eb49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fucking bite/UŽPISO GAIDŽIAI.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of UŽPISO GAIDŽIAI"
+            }
+          },
+          {
+            "id": "705337dd73d3381b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "81b0725ec84a4e6e",
+  "lastOpenFiles": [
+    "Dezomeda/Onepagecheckout naujas.md",
+    "Dezomeda/Prestashop upgrade 9.md",
+    "Daily routine.md",
+    "Tidy house/GOAL.md",
+    "NEW home/Buto nuoma.md",
+    "Healthy and cheap/Maisto planas savaitei.md",
+    "Files/RECEPTU-KNYGA-bygrue.pdf",
+    "images/Pasted image 20250821213225.png",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled 2.base",
+    "Untitled 3.base",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "VOLVO XC60.md",
+    "images/Pasted image 20250826183722.png",
+    "images/b3c03842-bb6a-4923-ac54-5c1509489800.jpg",
+    "Files/carVertical - a1cf5e84-04cd-4af4-a526-7ec1682c7bf9.pdf",
+    "Files/autoistorija.lt_r_a81bc6.png",
+    "Make VW look great again/GOAL.md",
+    "images/Pasted image 20250826183759.png",
+    "Untitled",
+    "images/Pasted image 20250826214930.png",
+    "images/Pasted image 20250826214923.png",
+    "images/Pasted image 20250826214915.png",
+    "images/Pasted image 20250826214905.png",
+    "Crypto/Twitter bot.md",
+    "Crypto/Trading time.md",
+    "Crypto/Terminology.md",
+    "Crypto/Learning.md",
+    "Crypto/Fundamental analysis.md",
+    "Bookmytrim/GOAL.md",
+    "Healthy and cheap/receptai/Brownie.md",
+    "Healthy and cheap/receptai/Sveikas Jogurto Kepinys.md",
+    "Healthy and cheap/receptai/Graikiškas Jogurto Desertas su Medumi ir Riešutais.md",
+    "Healthy and cheap/receptai/Faršas ant iešmo.md",
+    "Looking gooood/GOAL.md",
+    "Unstoppable Me/Goal.md",
+    "images/Pasted image 20250826214936.png",
+    "Dezomeda/2025-04-15.md",
+    "Crypto/Quations.md",
+    "NEW home/Buto pirkimas.md",
+    "Fucking bite/UŽPISO GAIDŽIAI.md",
+    "images",
+    "Untitled.canvas",
+    "Vilnius - Kroatija.md",
+    "FISHING/Stovyklavietės/Stovyklavietės.md"
+  ]
+}

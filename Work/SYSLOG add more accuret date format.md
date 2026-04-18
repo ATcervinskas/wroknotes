@@ -1,0 +1,1 @@
+sudo nano /etc/rsyslog.conf comment out this line : #$ActionFileDefaultTemplate RSYSLOG_TraditionalFileFormat systemctl restart rsyslog.service

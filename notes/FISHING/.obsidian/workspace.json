@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "a698acccea96eeb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c545157b02fcfab7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d87dd7280a3d62fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Upeliai/Upėtakiniai upeliai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Upėtakiniai upeliai"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33c911d7b67aacb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "21d5327fbca86b14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7d8aa3f474014d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4f3ae1f0792b0cbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ffe8f32cf8665f95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab20dbc6855c9213",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a2b9c62560f52a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "928535c10596dd98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Upeliai/Upėtakiniai upeliai.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Upėtakiniai upeliai"
+            }
+          },
+          {
+            "id": "c21ca95e8c15529e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Upeliai/Upėtakiniai upeliai.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Upėtakiniai upeliai"
+            }
+          },
+          {
+            "id": "4b4b5ea9b0f5ed7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "949e10737ab890d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Upeliai/Upėtakiniai upeliai.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Upėtakiniai upeliai"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d87dd7280a3d62fa",
+  "lastOpenFiles": [
+    "Stovyklavietės/Stovyklavietės.md",
+    "Upeliai/Upėtakiniai upeliai.md",
+    "Upeliai"
+  ]
+}

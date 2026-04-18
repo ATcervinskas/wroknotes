@@ -1,0 +1,1 @@
+ http://mano.lka.local/study-grid-global/studiju-dalykai/6411671b5e162/61c064ae6598d?form=N&modal_id=025784&program=12&version=1198

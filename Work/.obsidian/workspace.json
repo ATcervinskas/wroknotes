@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "2dc097a64938588a",
+    "type": "split",
+    "children": [
+      {
+        "id": "319456d658b7616b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82c33d06dcc25e21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Composer install.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Composer install"
+            }
+          },
+          {
+            "id": "9bc188ea16d2e93f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manoVT/Roles and Permissions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roles and Permissions"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d5910694141b0ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "17c009d343ccabbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d219131b87bc211d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "48d9b309047b4b47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ehu",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c3d767d2d19a22a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32e75f4a4d057950",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa7743a54e59e40d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e471e9358b45f41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WSL + DOCKER/Projects port mappings-VGTU1145357.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Projects port mappings-VGTU1145357"
+            }
+          },
+          {
+            "id": "874a3c012d0d5880",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WSL + DOCKER/Projects port mappings-VGTU1145357.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Projects port mappings-VGTU1145357"
+            }
+          },
+          {
+            "id": "b94dfae0fbed2a60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "99183f89473dd13a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WSL + DOCKER/Projects port mappings-VGTU1145357.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Projects port mappings-VGTU1145357"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9bc188ea16d2e93f",
+  "lastOpenFiles": [
+    "WSL + DOCKER/3. Project first startup.md",
+    "Redmine/Plugins installation.md",
+    "Redmine/Resolving errors.md",
+    "Redmine/Force HTTPS.md",
+    "LKA Test modulio aprasas.md",
+    "gitignore example.md",
+    "Composer install.md",
+    "Send test mail via Tinker.md",
+    "Pasted image 20240905123207.png",
+    "Add API allowed IP address.md",
+    "Composer version update in server.md",
+    "DB dump.md",
+    "Prestashop",
+    "SSO CRON TAB.md",
+    "WSL + DOCKER/Projects port mappings-VGTU1145357.md",
+    "WSL + DOCKER/Projects port mappings.md",
+    "WSL + DOCKER/Project configuration for docker.md",
+    "WSL + DOCKER/Permissions fix.md",
+    "WSL + DOCKER/Network connection between docker containers.md",
+    "WSL + DOCKER/Projects port mappings-VGTU1145357-2.md",
+    "WSL + DOCKER/Tips and commands.md",
+    "WSL + DOCKER/WSL and Git configuration.md",
+    "WSL + DOCKER/2. Docker install on WSL.md",
+    "WSL + DOCKER/1. WSL and Ubuntu install.md"
+  ]
+}

@@ -1,0 +1,10 @@
+```html
+<h3>Elektroninė bankininkystė:</h3>
+<div class="billing_banks"><img src="https://igw-seb-demo.every-pay.com/assets/payment_methods/seb-8099b005a2a78dab9b2002ee1d53da9f8960f78e5dbd4b19054daeef27819fcf.svg" alt="AS SEB Pank" /> <img src="https://igw-seb-demo.every-pay.com/assets/payment_methods/swedbank-906c39ec77508701740161e5ef9086779323f1c4643680e6d6f2d1776d924d6c.svg" alt="Swedbank AS" /> <img src="https://igw-seb-demo.every-pay.com/assets/payment_methods/citadele-cd31262556933867a62278001cf1d4f9b9a41c5038ee20efea6adc16067aee28.svg" alt="AS Citadele banka" /> <img src="https://igw-seb-demo.every-pay.com/assets/payment_methods/lhv-fc22e38aa5a9d1a127c14daa264a4c642aa9f3320d186bedcb14d96b91920446.svg" alt="AS LHV Pank" /> <img src="https://igw-seb-demo.every-pay.com/assets/payment_methods/coop-9af0c77ea70bf9549cb8985aef4de705c3f477601d574d8f73b9365daf9022d8.svg" alt="Coop Pank AS" /> <img src="https://igw-seb-demo.every-pay.com/assets/payment_methods/luminor-d14493ff3d891df33914c3ccda014487676090d558b244e689a7297610be992b.svg" alt="Luminor Bank AS" /> <img src="https://igw-seb-demo.every-pay.com/assets/payment_methods/siauliu-9c86b8a693782b4660f21b03377837e4678d2650a6a2dbe385de15978b18db70.svg" alt="Šiaulių Bankas AB" /></div>
+<p></p>
+<h3>Mokėjimų kortelė:</h3>
+<div class="billing_banks"><img src="https://igw-seb-demo.every-pay.com/assets/payment_methods/card-a66312a32bdfd28279262e4ad4713ead14d2a78549dff9213029e33f18672119.svg" alt="Mokėjimų kortelė" /> <img src="https://dezomeda.lt/img/cms/applepay.png" alt="Apple Pay" /></div>
+<p></p>
+<p style="margin: 0px 0px 20px; color: #333333; font-family: Roboto, sans-serif; font-size: 14px;">Išrašome išankstinio mokėjimo sąskaitą faktūrą, po jos apmokėjimo išduodame prekes ar jas siunčiame. </p>
+<p style="margin: 0px 0px 20px; color: #333333; font-family: Roboto, sans-serif; font-size: 14px;"></p>
+```

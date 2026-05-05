@@ -1,2 +1,0 @@
-
-ggoogle app password : tgutpllszryjlmxi

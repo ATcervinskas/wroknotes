@@ -43,3 +43,4 @@ Download ets_blog form developer and upgrade
 
 Disable blockwishlist module
 Buy Now button is added by ets_onepagechecout
+0 products price reset productquatation module

@@ -42,4 +42,4 @@ Download ets_blog form developer and upgrade
 05/20/2026
 
 Disable blockwishlist module
-Buy Now button is added by ets_onepagechec
+Buy Now button is added by ets_onepagechecout
